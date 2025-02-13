@@ -25,4 +25,4 @@ Most relevant benefits include:
 - Consumer goods companies could adjust pricing and production strategies based on inflation expectations.
 - It could predict changes in demand for goods and services, influencing decisions in retail and manufacturing.
 
-In that order of ideas, the reason for creating this trained model from neural networks in Python arose, whose main source of data was taken directly from the website of the Banco de la Republica (BanRep). 
+In that order of ideas, the reason for creating this trained model from neural networks in Python arose, whose main source of data was taken directly from the Banco de la Republica´s (BanRep) website. 
