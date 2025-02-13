@@ -1,6 +1,8 @@
 # CPI_predictive_model
 The objective of this project is to develop a model ARIMA (AutoRegressive Integrated Moving Average) with 31 macroeconomic variables that allows estimating how much the consumer price index in Colombia will vary monthly, which will allow generating investment strategies and offers multiple benefits for investors, regulators and companies in the short and medium term for strengthen financial stability and enable better adaptation to economic fluctuation.
 
+![image](https://github.com/user-attachments/assets/deb8c50c-ae8e-44ba-b43f-06e24c6e07dd)
+
 Most relevant benefits include:
 
 **1. Improved Investment Decision-Making:**
