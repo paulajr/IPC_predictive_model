@@ -1,5 +1,5 @@
 # CPI_predictive_model
-The objective of this project is to develop a model that allows estimating how much the consumer price index in Colombia will vary monthly, which will allow generating investment strategies and offers multiple benefits for investors, regulators and companies in the short and medium term strengthen financial stability and enable better adaptation to economic fluctuation.
+The objective of this project is to develop a model ARIMA (AutoRegressive Integrated Moving Average) that allows estimating how much the consumer price index in Colombia will vary monthly, which will allow generating investment strategies and offers multiple benefits for investors, regulators and companies in the short and medium term strengthen financial stability and enable better adaptation to economic fluctuation.
 
 Most relevant benefits include:
 
@@ -24,3 +24,5 @@ Most relevant benefits include:
 **5. Optimization of Consumption and Market Behavior**
 - Consumer goods companies could adjust pricing and production strategies based on inflation expectations.
 - It could predict changes in demand for goods and services, influencing decisions in retail and manufacturing.
+
+In that order of ideas, the reason for creating this trained model from neural networks in Python arose, whose main source of data was taken directly from the website of the Banco de la Republica (BanRep). 
